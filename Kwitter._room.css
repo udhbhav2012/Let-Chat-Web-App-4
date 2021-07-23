@@ -1,0 +1,28 @@
+html,body
+{
+    background-color: lightgreen;
+}
+#team_name
+{
+    background-color: rgb(238, 11, 11);
+}
+#add_team
+{
+    background-color: forestgreen;
+}
+#add
+{
+    background-color: greenyellow;
+}
+#image
+{
+    width: 50px;
+    height: 50px;
+}
+#Team
+{
+    padding: 10px;
+    width: 80%;
+    background: rgba(255,255,255,0.8);
+    border-radius: 15px;
+}
